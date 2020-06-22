@@ -1,0 +1,21 @@
+.div-jogo {
+	float: left; 
+	width: auto; 
+	height: 500px; 
+	background: #FFF; 
+	border: 1px solid #A2A2A2;
+	margin-right: 5px;
+}
+
+.tabela-cronometro {
+	width: 140px;
+	height: 132px;
+}
+
+.div-cenario {
+	float: left;
+	width: 600px;
+	height: 500px;
+	background: url('imagens/cenario.png');
+	background-position: bottom;
+}
